@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 💫 About Me:
-🔭 I’m currently working on Java<br>👯 I’m looking to collaborate on Python<br>🤝 I’m looking for help with C++<br>🌱 I’m currently learning C<br>💬 Ask me about HTML<br>⚡ Fun fact : Everything above is a Lie
+🔭 I’m currently working on Java<br>👯 I’m looking to collaborate on Python<br>🤝 I’m looking for help with C++<br>🌱 I’m currently learning C<br>💬 Ask me about HTML<br>
 
 
 ## 🌐 Socials:
